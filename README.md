@@ -19,4 +19,6 @@ Wie Sie die Zahlen abrufen und was die Werte bedeuten, steht in der **[Anleitung
 
 ## Aktualisieren
 
-Wenn es eine neue Version gibt, laden Sie die ZIP-Datei über den Link oben erneut herunter, entpacken sie und klicken wieder auf **„Einrichten“**. Die alte Version wird dabei ersetzt. Ihre bisherigen Abfragen und der Verlauf bleiben erhalten.
+Ab Version 1.1.0 meldet der Konkurrenzmonitor neue Versionen beim Start selbst: Oben erscheint ein Hinweis mit dem Knopf **„Jetzt aktualisieren“**. Ein Klick genügt, das Programm lädt die neue Version, richtet sie ein und startet neu. Ihre bisherigen Abfragen und der Verlauf bleiben erhalten.
+
+Haben Sie noch eine ältere Version, laden Sie die ZIP-Datei einmalig über den Link oben herunter, entpacken sie und klicken wieder auf **„Einrichten“**. Die alte Version wird dabei ersetzt, der Verlauf bleibt erhalten.
